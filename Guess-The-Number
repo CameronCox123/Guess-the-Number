@@ -1,10 +1,9 @@
-# # File: HW4A
-# # Author: Cameron Cox
-# # UT EID: cpc2526
-# # Course: cs303E
-# #
-# # Date: 9/25/2023
-# #Description of program: Plays the Game "Guess the Number" with the user
+# File: Guess the Number
+# Author: Cameron Cox
+# UT EID: cpc2526
+# Course: cs303E
+
+#Description of program: Plays the Game "Guess the Number" with the user
 
 import random
 
